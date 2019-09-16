@@ -4,6 +4,8 @@
 ### Directions
 Follow these submission guidelines and include answers to Step 1 and Step 2 in a private gist that you should submit in a DM along with a PDF of your up-to-date resume to Kayt (@kayt) by Monday of Week 6 at 9am 
 
+-tst
+
 ### Step 1: Create a Calendar
 The job search is now your full-time job, and in order to stay on top of it, structuring your time well is key. Just as you've done in Mod 4, please build out a calendar to structure your time reflecting your full-time job search. 
 
